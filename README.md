@@ -88,4 +88,4 @@ If you have any feedback, please reach out to us at liojio384@gmail.com 📧
 
 ### Home
 
-![](./assets/images/home-portfolio.png)
+![](./assets/images/portfolio.png)
