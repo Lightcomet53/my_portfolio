@@ -7,7 +7,7 @@
 - I have experience with a wide range of web development technologies,
   from simple HTML/CSS/JavaScript websites to more complex Vue.js
 
-- I have been a web developer for over two years now, and I'm passionate about what I do
+- I have been a web developer for over 3 years now, and I'm passionate about what I do
 
 - I am passionate about creating high-quality websites that are not only
   aesthetically pleasing but also functional and easy to use.
@@ -21,7 +21,7 @@
 
 My Blog Portfolio is a fully responsive website <br />Responsive for all devices, build using HTML CSS JavaScript.
 
-<a href="https://clear-sleet.surge.sh/"><strong>➥ Live</strong></a>
+<a href="https://romanfedorive.vercel.app/"><strong>➥ Live</strong></a>
 
 </div>
 
@@ -42,9 +42,24 @@ My Blog Portfolio is a fully responsive website <br />Responsive for all devices
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Vue.js
+- React.js
+- Next.js
+- Nuxt.js
+- Tailwind CSS
+- Bootstrap
+- MongoDB
+- MySQL
+- Firebase
+- AWS
+- Azure
+- Docker
+- Kubernetes
+- Node.js
 - Python
 - Flask
+- Django
 
 ## My Portfolio Tech Stack (Dependencies)
 
@@ -58,7 +73,7 @@ You must have the **HTML**, **CSS**, **JavaScript** for our website.
 
 ## Author
 
-- [@mahmoudessam820](https://github.com/mahmoudessam820)
+- [@Lightcomet53](https://github.com/Lightcomet53)
 
 ## 🔗 Links
 
@@ -67,7 +82,7 @@ You must have the **HTML**, **CSS**, **JavaScript** for our website.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at mahmoudelkaruony220@gmail.com 📧
+If you have any feedback, please reach out to us at liojio384@gmail.com 📧
 
 ## Screenshots
 

@@ -737,14 +737,16 @@ footer .wrapper {
 
   .profile-wrapper {
     width: 57px;
-    height: 65px;
+    height: 57px;
     background: var(--action-primary);
     padding: 3px;
+    overflow: hidden;
     border-radius: 50%;
   }
 
   .profile-wrapper img {
     border-radius: 50%;
+    width: 57px;
   }
 
   .blog .wrapper {
@@ -1077,12 +1079,18 @@ footer .wrapper {
     color: hsl(235, 86%, 65%);
   }
 
-  .social-link .twitter {
-    color: hsl(203, 89%, 53%);
+  .social-link .github {
+    color: grey;
   }
 
-  .social-link .facebook {
-    color: hsl(220, 46%, 48%);
+  .social-link .linkedin {
+    color: rgb(12, 90, 192);
+  }
+  .social-link .skype {
+    color: rgb(8, 151, 218);
+  }
+  .social-link .email {
+    color: grey;
   }
 
   .social-link .icon-box:hover {

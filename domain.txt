@@ -1,9 +1,9 @@
 
 
-URL: https://clear-sleet.surge.sh/
+URL: https://romanfedorive.vercel.app/
 
 
-Domain: clear-sleet.surge.sh
+Domain: romanfedorive.vercel.app
 
 
 How to edit the portfolio
