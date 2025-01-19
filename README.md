@@ -29,7 +29,7 @@ My Blog Portfolio is a fully responsive website <br />Responsive for all devices
 
 ### Screeshots
 
-![My Blog & Portfolio](./assets/images/portfolio_screenshot.jpg "Desktop Mode")
+![My Blog & Portfolio](./assets/images/portfolio_screenshot.png "Desktop Mode")
 
 ### I offer the following services:
 
